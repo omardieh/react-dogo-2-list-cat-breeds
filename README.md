@@ -1,4 +1,4 @@
-# -react-dogo-2-list-cat-preeds
+# react-dogo-2-list-cat-preeds
 Make a small application to list all cat breeds using the Cat facts API
 
 The API allows you to retrieve cat breeds at the following url: https://catfact.ninja/breeds . 
